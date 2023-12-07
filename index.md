@@ -10,7 +10,7 @@ My GitHub page is http://github.com/NicholasPerez1402.
 
 * Lab 1
 
-    I really enjoyed doing lab 1, part 1 as it was our first time applying the things I was learning in my lecture class. Since this is my first time doing a cs class and really learning Computer Science i wanted to add lab 1 because it was my first ever project. The start of my Computer Science career!
+    I really enjoyed doing lab 1, part 1 as it was our first time applying the things I was learning in my lecture class. Since this is my first time doing a Computer Science lecture class and really learning Computer Science i wanted to add lab 1 because it was my first ever project. The start of my Computer Science career!
 
 * Lab 5
 
